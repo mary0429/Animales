@@ -2,3 +2,15 @@ h3{
     color: #006b0e;
     font-family: 'Times New Roman', Times, serif;
 }
+h2 {
+    text-align: center;
+    color: rgb(123, 39, 131);
+}
+#mary {
+    text-align: center;
+    color: rgb(93, 24, 173);
+}
+.center {
+    text-align: center;
+    color: rgb(36, 8, 160);
+}
