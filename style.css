@@ -1,3 +1,7 @@
+*{
+    margin: auto;
+}  
+
 h3{
     color: #006b0e;
     font-family: 'Times New Roman', Times, serif;
@@ -5,6 +9,15 @@ h3{
 h2 {
     text-align: center;
     color: rgb(123, 39, 131);
+}
+h1{
+    margin: 40px;
+    border: 2px solid rgb(83, 4, 173);
+    padding: 40px;
+}
+body{
+    text-align: center;
+
 }
 #mary {
     text-align: center;
@@ -21,4 +34,12 @@ a:hover{
 img:hover{
     width: 250px;
 }
-0
+.imagenesIntro{
+    width: 280px;
+    display: block;
+    margin-top: 50px;
+}
+iframe{
+    margin-top: 50px;
+}
+
