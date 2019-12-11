@@ -43,3 +43,44 @@ iframe{
     margin-top: 50px;
 }
 
+.cuadro1{
+width:10%;
+height:30%;
+border:2px solid rgb(0, 0, 0);
+padding:2%;
+background-color:rgb(227, 155, 241);
+margin:5%;
+position: static;
+}
+.cuadro2{
+width:10%;
+height:15%;
+border:2px solid rgb(0, 0, 0);
+padding:2%;
+background-color:rgb(99, 110, 211);
+margin:5%;
+position: absolute;
+}
+.cuadro3{
+width:10%;
+height:10%;
+border:2px solid rgb(0, 0, 0);
+padding:1%;
+background-color:rgb(128, 230, 208);
+margin:1%;
+position: fixed;
+top: 100px;
+right: 100px;
+}
+.cuadro4{
+width:10%;
+height:30%;
+border:2px solid rgb(0, 0, 0);
+padding:2%;
+background-color:rgb(211, 99, 155);
+margin:5%;
+position: relative;
+left: 40px;
+bottom: 50px;
+
+}
