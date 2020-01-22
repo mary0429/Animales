@@ -84,3 +84,20 @@ left: 40px;
 bottom: 50px;
 
 }
+#miImagen:hover{
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    filter: grayscale(90%)
+}
+
+#miImg:hover{
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+    filter: invert(100%);
+}
+#miImg2:hover{
+    transition-duration: 0,5s;
+    transition-timing-function: ease-in;
+    filter: opacity(50%)
+
+}
