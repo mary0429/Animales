@@ -96,7 +96,7 @@ bottom: 50px;
     filter: invert(100%);
 }
 #miImg2:hover{
-    transition-duration: 0,5s;
+    transition-duration: 2s;
     transition-timing-function: ease-in;
     filter: opacity(50%)
 
