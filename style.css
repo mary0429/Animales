@@ -101,3 +101,66 @@ bottom: 50px;
     filter: opacity(50%)
 
 }
+#maryl{
+animation-name: samuel;
+animation-duration: 2s;
+animation-iteration-count: 5;
+animation-timing-function: linear;
+animation-direction: alternate;
+}
+@keyframes samuel{
+0%{
+}
+50%{
+    transform: rotateZ(100deg);
+    filter: invert(100%);
+}
+100%{
+    transform: translate(50px,120px)
+}
+}
+#tiutlo{
+animation-name: samuel;
+animation-duration: 2s;
+animation-iteration-count: 5;
+animation-timing-function: linear;
+animation-direction: alternate;
+}
+@keyframes samuel{
+0%{
+}
+50%{
+    transform: rotateZ(100deg);
+    filter: invert(100%);
+}
+100%{
+    transform: translate(50px,120px)
+}
+}
+#titulo{
+    animation-name: lucu;
+    animation-duration: 2s;
+    animation-iteration-count: 2;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    }
+    @keyframes lucu{
+    0%{
+    }
+    50%{
+        transform: rotateX(60deg);
+        filter: invert(100%);
+    }
+    100%{
+        transform: translate(50px,120px)
+    }
+}
+
+
+
+
+
+
+
+    
+
